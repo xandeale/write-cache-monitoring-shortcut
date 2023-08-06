@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Sync
+Exec=watch -n 1 grep -e Dirty: /proc/meminfo
+Terminal=true
+Icon=
+Type=Application
